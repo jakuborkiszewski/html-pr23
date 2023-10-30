@@ -29,6 +29,10 @@ body{
 }
 .d06{
 	height: 40px;
+	padding-top:20px;
+	padding-left:20px;
+	color:cyan;
+	background-color:DimGray;
 
 }
 .d07{
@@ -76,7 +80,8 @@ body{
 }
 .d16{
 	height: 40px;
-
+	color: red;
+	
 }
 .d17{
 	height: 40px;
@@ -85,10 +90,9 @@ body{
 .d18{
 	height: 40px;
 }
-
 .d19{
 	height: 40px;
-
+	
 }
 
 
